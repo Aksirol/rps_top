@@ -1,2 +1,2 @@
 # rps_top
-Console project from TOP lessons
+Rock-Paper-Scissors console project from TOP lessons
